@@ -1,5 +1,5 @@
 # MyContacts
-This was project created in [JStack](http://www.jstack.com.br) course.
+This project was created in [JStack](http://www.jstack.com.br) course.
 
 ## Back-End
 The back-end uses NodeJs with Express for create an API to connect a PostgreSQL database.

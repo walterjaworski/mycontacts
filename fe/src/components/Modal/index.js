@@ -4,6 +4,7 @@ import { Container, Footer, Overlay } from './styles';
 
 import Button from '../Button';
 import ReactPortal from '../ReactPortal';
+
 import useAnimatedUnmount from '../../hooks/useAnimatedUnmount';
 
 export default function Modal({
